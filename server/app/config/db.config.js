@@ -1,8 +1,8 @@
 module.exports = {
   HOST: "localhost",
-  USER: "root",
-  PASSWORD: "",
-  DB: "testdb",
+  USER: "kamesh",
+  PASSWORD: "@Kamesh9396164",
+  DB: "rextrodb",
   dialect: "mysql",
   pool: {
     max: 5,
